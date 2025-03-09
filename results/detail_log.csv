@@ -1,0 +1,81 @@
+id,prompt,response,true_answer,is_correct
+0,"问题: Let $n$ be the product of the two smallest 3-digit prime numbers. Find the sum of the digits of $n$.
+选项: 
+A. 8
+B. 3
+C. 6
+D. 9
+参考答案: A
+请回答你的答案的选项对应字母: ",A,A,True
+1,"问题: Factor $36-9x^2$.
+选项: 
+A. (6-3x)(6+3x)
+B. (-3x+6)(3x+6)
+C. 9(2-x)(2+x)
+D. 3(2+x)^2
+参考答案: C
+请回答你的答案的选项对应字母: ",C,C,True
+2,"问题: The mean of 7 numbers is 15. When an 8th number is added, the mean decreases to 12. What is the 8th number?
+选项: 
+A. –12
+B. –9
+C. 0
+D. 8
+参考答案: B
+请回答你的答案的选项对应字母: ",B,B,True
+3,"问题: What value of $N$ satisfies $\frac{4^{(3^3)}}{(4^3)^3} = 2^N$?
+选项: 
+A. 9
+B. 27
+C. 36
+D. 34
+参考答案: C
+请回答你的答案的选项对应字母: ",C,C,True
+4,"问题: For all real numbers $r$ and $s$, define the mathematical operation $\#$ such that the following conditions apply: $r\ \#\ 0 = r, r\ \#\ s = s\ \#\ r$, and $(r + 1)\ \#\ s = (r\ \#\ s) + s + 1$. What is the value of $11\ \#\ 5$?
+选项: 
+A. 11
+B. 12
+C. 64
+D. 71
+参考答案: D
+请回答你的答案的选项对应字母: ",D,D,True
+5,"问题: Given that $a$ and $b$ are real numbers such that $-3\leq a\leq1$ and $-2\leq b\leq 4$, and values for $a$ and $b$ are chosen at random, what is the probability that the product $a\cdot b$ is positive? Express your answer as a common fraction.
+选项: 
+A. \frac{5}{12}
+B. \frac{5}{11}
+C. \frac{7}{12}
+D. \frac{5}{17}
+参考答案: A
+请回答你的答案的选项对应字母: ",A,A,True
+6,"问题: Evaluate $\log_8 2$.
+选项: 
+A. \frac{1}{4}
+B. 4
+C. 3
+D. \frac{1}{3}
+参考答案: D
+请回答你的答案的选项对应字母: ",D,D,True
+7,"问题: If $725x + 727y = 1500$ and $729x+ 731y = 1508$, what is the value of $x - y$ ?
+选项: 
+A. 725
+B. -2
+C. 2
+D. -48
+参考答案: D
+请回答你的答案的选项对应字母: ",D,D,True
+8,"问题: If f (x) = x^3 + 2x^2 – 9x – 18, which of the following statements is true?
+选项: 
+A. f (x) = 0 has three real solutions.
+B. f (x) ≥ –18 for all x ≥ 0.
+C. f (x) ≤ –18 for all x ≤ 0.
+D. The function f (x) is decreasing for x ≤ –3.
+参考答案: A
+请回答你的答案的选项对应字母: ",A,A,True
+9,"问题: What is the greatest possible quotient of any two distinct members of the set $\{\frac{2}{5}, \frac{1}{2},5,10\}$? Specifically, we wish to maximize $\frac{x}{y}$, where $x$ and $y$ are chosen from the previous set.
+选项: 
+A. 5
+B. 10
+C. 20
+D. 25
+参考答案: D
+请回答你的答案的选项对应字母: ",D,D,True
