@@ -1,0 +1,6 @@
+config,accuracy,error_follow_ratio,error_ratio,sample_size
+30%_Error,0.804,0.112,0.3,250
+50%_Error,0.684,0.22,0.5,250
+70%_Error,0.632,0.288,0.7,250
+100%_Error,0.504,0.368,1.0,250
+Control,0.944,0.0,0.0,250
